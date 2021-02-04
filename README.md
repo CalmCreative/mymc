@@ -8,7 +8,7 @@ A tool for working with and manipulating PS2 memory card image files, written in
 # Features
 
 - Open, View, Edit & Delete Save Files
-- Import & Export .psu, .max file formats
+- Import & Export save files from and to .psu, .max file formats
 - macOS Dark Mode support
 - Includes GUI mode for ease of use
 
