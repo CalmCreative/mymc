@@ -30,6 +30,6 @@ Python 2.6/2.7, latest version of WxPython (Phoenix), py2app
 # macOS (For Dark Mode Support)
     python setup.py py2app
     cd ./dist
-    open -a ./mymc.app
+    open -a mymc.app
 # Linux & macOS (Without Dark Mode Support)
     python ./mymc.py
